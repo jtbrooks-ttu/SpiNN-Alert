@@ -1,2 +1,2 @@
 # SpiNN-Alert
-Real-time SNN-based tornado detection system in Middle Tennessee
+SNN-based tornado detection system. Preliminary work for real-time system designed for Middle Tennessee
